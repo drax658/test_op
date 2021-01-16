@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Wielka Wyprzeda Snowboardu _icon-loop</name>
+   <tag></tag>
+   <elementGuidId>924ee2cb-7761-4ee4-ad59-16fe3a9bcafd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon-loop</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-loop</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;wf-icomoon-n4-active wf-clslogotypes-n4-active wf-active&quot;]/body[@class=&quot;no-touch  pace-done&quot;]/div[@class=&quot;container&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;header-wrapper&quot;]/div[@class=&quot;header-menu&quot;]/nav[@class=&quot;header-nav&quot;]/button[@class=&quot;btn btn-loop js--searchProducts&quot;]/span[@class=&quot;icon-loop&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+   </webElementXpaths>
+</WebElementEntity>
